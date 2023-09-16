@@ -14,10 +14,10 @@ const CountBenefits3 = ({
         <div className="row align-items-center">
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-1">
           <div className="card">
-            <div className="funfact-content funfact-res text-left px-5 mx-5">
+            <div className="funfact-content funfact-res text-left paddingnew">
               <h3 style={{fontWeight:"500",fontSize:"36px"}}>Performance: sharpen your focus</h3>
               <p className="pt-4 ptag" style={{fontSize:"17px"}}>
-              Excellence requires clarity, focus and mental dexterity. LYMA delivers you the best advantages possible for daily life, setting you up to make your move. Our Natural Engineering approach is proven to put you on top.</p>
+              Excellence requires clarity, focus and mental dexterity. REZINGO delivers you the best advantages possible for daily life, setting you up to make your move. Our Natural Engineering approach is proven to put you on top.</p>
                 {/* <div className="ptag">
             <li><span class="bullet bullet-dot bg-primary h-15px w-15px"></span>Innovative Health Metric</li>
             <li><span class="bullet bullet-dot bg-primary h-15px w-15px"></span>Promote Wellness</li>

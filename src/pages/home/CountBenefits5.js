@@ -14,7 +14,7 @@ const CountBenefits5 = ({
         <div className="row align-items-center">
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-1">
           <div className="card">
-            <div className="funfact-content funfact-res text-left px-5 mx-5">
+            <div className="funfact-content funfact-res text-left paddingnew">
               <h3 style={{fontWeight:"500",fontSize:"36px"}}>Beauty: skin, hair and nails</h3>
               <p className="pt-4 ptag" style={{fontSize:"17px"}}>
               Looking good on the outside makes you feel good on the inside. Our proven ingredient strengthens nails, restores the thickness and lustre of your hair and nourishes your skin from within for elasticity and glow. So you can feel and look your best.</p>

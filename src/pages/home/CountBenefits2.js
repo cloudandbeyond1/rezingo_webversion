@@ -14,7 +14,7 @@ const CountBenefits2 = ({
         <div className="row align-items-center">
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-2">
           <div className="card">
-            <div className="funfact-content funfact-res text-left px-5 mx-5">
+            <div className="funfact-content funfact-res text-left paddingnew">
               <h3 style={{fontWeight:"500",fontSize:"36px"}}>Health: build your resilience</h3>
               <p className="pt-4 ptag" style={{fontSize:"17px"}}>
               Maximise your immunity and strengthen your system. Inflammation is at the core of many of our health issues and can age you prematurely. Our proven ingredients work with your system to naturally engineer you to your very best.</p>

@@ -29,7 +29,7 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
               <div>               
 <div style={{width: "300px"}} class="bg-light mb-25">
 <div style={{background: "#5d2d8d",color: "white"}}>
-<h3 style={{color: "white",textAlign: "center"}}>New Product</h3>
+<h3 style={{color: "white",textAlign: "center", fontSize: "16px"}}>New Product</h3>
 </div>
 <div tabindex="-1" style={{width: "100%",display: "inline-block", marginTop: "25px"}}>
 <div class="media" style={{display: "flex"}}>

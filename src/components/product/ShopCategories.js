@@ -9,8 +9,9 @@ const ShopCategories = ({ categories, getSortParams }) => {
       <div className="sidebar-widget-list mt-30">
         {categories ? (
           <ul style={{display: "grid",
-            justifyContent: "center",
-            marginBottom: "30px"}}>
+            justifyContent: "left",
+            marginBottom: "30px", 
+            marginLeft: "22px"}}>
             <li>
               <div className="sidebar-widget-list-left">
                 <button

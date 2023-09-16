@@ -13,6 +13,9 @@ import CountBenefits3 from "./CountBenefits3";
 import CountBenefits4 from "./CountBenefits4";
 import CountBenefits5 from "./CountBenefits5";
 import BrandLogoSliderThree from "../../wrappers/brand-logo/BrandLogoSliderThree";
+import CountBenefits6 from "./CountBenefits6";
+import ImageSliderOne from "./ImageSliderOne";
+import HeroSliderBenefitNew from "../../wrappers/hero-slider/HeroSliderBenefitNew";
 const Benefits = () => {
   return (
     <Fragment>
@@ -28,12 +31,25 @@ const Benefits = () => {
         <HeroSliderBenefits/>
         {/* banner */}
         {/* <BannerShop spaceTopClass="pt-60" spaceBottomClass="pb-65" /> */}
-        <CountDownBenefits spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
-        <CountBenefits2 spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
-        <CountBenefits3 spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
-        <CountBenefits4 spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
-        <CountBenefits5 spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
-        <BrandLogoSliderThree spaceBottomClass="pb-95" spaceTopClass="pt-100" />
+        <CountDownBenefits spaceTopClass="pt-50" spaceBottomClass="pb-50" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        <CountBenefits2 spaceTopClass="pt-50" spaceBottomClass="pb-50" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        <CountBenefits3 spaceTopClass="pt-50" spaceBottomClass="pb-50" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        <CountBenefits4 spaceTopClass="pt-50" spaceBottomClass="pb-50" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        <CountBenefits5 spaceTopClass="pt-50" spaceBottomClass="pb-50" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        {/* <div class="row hero-image">
+          <div class="col-lg-12 justify-content-center d-flex text-center py-5">
+            <div class="section-title-8 text-center mb-55 no-border">
+              <blockquote style={{color: "white",fontSize:"36px",lineHeight:"1.17",marginBottom:"15px"}}>"So many parts of our health and wellbeing are
+              <br></br>entwined. LYMA engineers incremental gains."</blockquote>
+              <p style={{color: "white", fontSize: "18px", lineHeight: "1.5em", marginTop: "25px"}}>Dr Paul Clayton pHd LYMA Clinical Director, Clinical Pharmacologist.</p>
+              </div>
+              </div>
+              </div> */}
+              <HeroSliderBenefitNew/>
+              <CountBenefits6 spaceTopClass="pt-50" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        <BrandLogoSliderThree spaceBottomClass="pb-95" spaceTopClass="pt-50" />
+        <ImageSliderOne />
+        
       </LayoutOne>
     </Fragment>
   );

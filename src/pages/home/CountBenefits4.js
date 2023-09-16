@@ -14,10 +14,10 @@ const CountBenefits4 = ({
         <div className="row align-items-center">
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-2">
           <div className="card">
-            <div className="funfact-content funfact-res text-left px-5 mx-5">
+            <div className="funfact-content funfact-res text-left paddingnew">
               <h3 style={{fontWeight:"500",fontSize:"36px"}}>Mood: find balance</h3>
               <p className="pt-4 ptag" style={{fontSize:"17px"}}>
-              Master the stress and anxiety of modern life and you will find a whole new mood. The right supplementation is proven to deliver real results. LYMA only uses proven ingredients that will deliver you the advantage you need.</p>
+              Master the stress and anxiety of modern life and you will find a whole new mood. The right supplementation is proven to deliver real results. REZINGO only uses proven ingredients that will deliver you the advantage you need.</p>
                 {/* <div className="ptag">
             <li><span class="bullet bullet-dot bg-primary h-15px w-15px"></span>Innovative Health Metric</li>
             <li><span class="bullet bullet-dot bg-primary h-15px w-15px"></span>Promote Wellness</li>
