@@ -11,7 +11,8 @@ const Feature = () => {
     <Fragment>
       <div className="container containermaxwidth mt-5">
         <div className="row justify-content-center d-flex text-center primary-color-bg featurept m-1">
-          <h1 className="f-50">All-Inclusive Features</h1>
+        <h2 className="f-50">All-Inclusive Features</h2>
+          {/* <h1 className="f-50">All-Inclusive Features</h1> */}
           <p className="f-20">
             Rezingo’s features are designed keeping in mind the diversity of
             wellness dimensions. Discover our prime features hereunder.

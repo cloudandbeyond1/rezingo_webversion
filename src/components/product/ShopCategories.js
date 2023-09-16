@@ -4,7 +4,7 @@ import { setActiveSort } from "../../helpers/product";
 
 const ShopCategories = ({ categories, getSortParams }) => {
   return (
-    <div className="sidebar-widget" style={{ border: "1px solid black"}}>
+    <div className="sidebar-widget" style={{ border: "1px solid #e6e6e6"}}>
       <h4 className="pro-sidebar-title">Categories </h4>
       <div className="sidebar-widget-list mt-30">
         {categories ? (

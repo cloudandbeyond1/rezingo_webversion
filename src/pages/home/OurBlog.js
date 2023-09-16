@@ -28,7 +28,7 @@ const OurBlog = () => {
 />
   <div className="card-body  py-5" style={{height: "350px"}}>
   <a href="#" className=""  style={{textTransform: "uppercase",color:"#5d2d8d",fontWeight:"500"}}    
->June 1, 2023</a>
+>Sep 1, 2023</a>
     <h3 className="card-title" style={{fontWeight: "600", lineHeight: "34px", paddingBottom: "2px", paddingTop: "10px"}}  
 >The Science Behind Holistic Wellness: A Comprehensive Guide</h3>
     <p className="card-text" style={{marginBottom: "12px"}}>Discover the science and evidence behind holistic wellness and its multiple dimensions. Learn to integrate these practices into your daily life.</p>
@@ -43,7 +43,7 @@ const OurBlog = () => {
 />
   <div className="card-body py-5" style={{height: "350px"}}>
   <a href="#" className=""  style={{textTransform: "uppercase",color:"#5d2d8d",fontWeight:"500"}}    
->June 1, 2023</a>
+>Sep 1, 2023</a>
     <h3 className="card-title" style={{fontWeight: "600", lineHeight: "34px", paddingBottom: "2px", paddingTop: "10px"}}  
 >Rezingo's 'Health Score': Rewriting Health Insurance</h3>
     <p className="card-text" style={{marginBottom: "12px"}}>Understand the concept of 'Health Score’ introduced by Rezingo, its impact on the healthcare and insurance industry, and what it means for you.</p>
@@ -58,10 +58,11 @@ const OurBlog = () => {
 />
   <div className="card-body py-5" style={{height: "350px"}}>
   <a href="#" className=""  style={{textTransform: "uppercase",color:"#5d2d8d",fontWeight:"500"}}   
->June 1, 2023</a>
+>Sep 1, 2023</a>
     <h3 className="card-title" style={{fontWeight: "600", lineHeight: "34px", paddingBottom: "2px", paddingTop: "10px"}}  
 >The Interplay of Wellness and Productivity in the Workplace</h3>
-    <p className="card-text" style={{marginBottom: "12px"}}>The Interplay of Wellness and Productivity in the Workplace</p>
+<p className="card-text" style={{marginBottom: "12px"}}>Uncover how companies can boost productivity and morale by
+                    incorporating wellness practices in the workplace.</p>
     <a href="#" className=""  style={{textTransform: "uppercase",color:"#5d2d8d",fontWeight:"500"}}     
 >View Post <i className="pe-7s-angle-right"></i></a>
   </div>

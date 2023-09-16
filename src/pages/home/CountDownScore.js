@@ -15,7 +15,7 @@ const CountDownScore = ({
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-2">
           <div className="card">
             <div className="funfact-content funfact-res text-left p-4">
-              <h3 className="f-50">Rezingo Health Score</h3>
+              <h2 className="f-50">Rezingo Health Score</h2>
               <p className="pt-4 ptag">
               Rezingo introduces a 'Health Score', an innovative metric that encapsulates an individual’s health engagements. Higher scores can potentially lead to richer rewards and benefits. Join us as we usher in a new dawn of health-oriented metrics.
                 </p>

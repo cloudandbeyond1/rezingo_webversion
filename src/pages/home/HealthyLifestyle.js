@@ -120,7 +120,8 @@ const HealthyLifestyle = ({ spaceTopClass, spaceBottomClass, dateTime }) => {
             </div>
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-2">
             <div className="funfact-content funfact-res text-left">
-            <h3>Ready to Embrace a Healthy Lifestyle?</h3>
+            <h2 className="f-50">Ready to Embrace a Healthy Lifestyle?</h2>
+            {/* <h3>Ready to Embrace a Healthy Lifestyle?</h3> */}
               <p className="pt-4" style={{marginBottom: "4rem",fontSize: "18px",   lineHeight: "1.75rem"}}>Become a part of the Rezingo community today and embark on your journey to holistic wellness. Remember, the first wealth is health.</p>
               <div id="cta-waitlist-input" class="mb-12" style={{position:" relative"}}>
                 <input type="email" class="mb-2 bg-white" style={{    paddingTop: "1.5rem",height:"65px", paddingBottom: "1.5rem",paddingRight: "5rem",paddingLeft: "1.5rem"}} placeholder="Enter your email address"/>

@@ -15,7 +15,7 @@ const CountDownWellness = ({
           <div className="col-md-6 col-xs-6 col-lg-6 order-1 order-lg-1">
           <div className="p-4">
             <div className="funfact-content funfact-res text-left">
-              <h1 className="f-50">Partners in Corporate & Academic Wellness</h1>
+              <h2 className="f-50">Partners in Corporate & Academic Wellness</h2>
               <p className="pt-4 ptag">             
 By partnering with corporations and universities, Rezingo endeavors to instill wellness as a collective mission. Let’s co-create environments where well-being and productivity co-exist. </p>
                 <div className="ptag">
