@@ -3,6 +3,12 @@
     border-bottom: 1px solid #c7c1c1;
     padding-bottom: 22px;
 }
+
+.card-text{
+
+  font-size: 14px;
+}
+
 .fs-25
 {
     font-size: 25px;

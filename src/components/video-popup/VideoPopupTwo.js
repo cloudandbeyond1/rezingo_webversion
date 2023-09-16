@@ -19,7 +19,7 @@ const VideoPopupTwo = ({ spaceBottomClass }) => {
           <h2 className="title mb-30">
             Programs <br /> Collections
           </h2>
-          <p className="text mb-30">
+          <p className="text1 mb-30">
             Lorem ipsum dolor sit amet consectetur adipisici elit sed do eiusm.
             Lorem ipsum dolor sit amet consectetur adipisici elit sed do eiusm.
             Lorem ipsum dolor sit amet consectetur adipisici elit sed do eiusm.
