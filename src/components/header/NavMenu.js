@@ -86,7 +86,7 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
                     </Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "/newhealth"} className="font1 color1">
+                    <Link to={process.env.PUBLIC_URL + "/health"} className="font1 color1">
                       {t("Health")}
                     </Link>
                   </li>

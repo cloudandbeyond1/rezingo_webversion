@@ -138,14 +138,17 @@ onScroll={handleScroll}>
   Watch the program video
   </h2>
   <div className="justify-content-center d-flex p-4">
-  <iframe
+  {/* <iframe
       width="853"
       height="480"
       src={`http://videos.ctfassets.net/7vk8puwnesgc/3xtIZ0QBOjuucR0zJQBrk9/570ed2a59d8d3477bdff584816b18ac1/230021_WEB_Ungated-content-Banners_2023_Stretching_003_Desktop.mp4`}
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowFullScreen
       title="Embedded youtube"
-    />
+    /> */}
+
+<iframe src="http://videos.ctfassets.net/7vk8puwnesgc/3xtIZ0QBOjuucR0zJQBrk9/570ed2a59d8d3477bdff584816b18ac1/230021_WEB_Ungated-content-Banners_2023_Stretching_003_Desktop.mp4" width={853} height={480} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture full"/>
+
     </div>
   </div>
   <div className="container-fluid">
