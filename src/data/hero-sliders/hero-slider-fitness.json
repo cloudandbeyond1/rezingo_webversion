@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Save 10%",
+      "subtitle": "Spring into fitness",
+      "image": "/assets/img/slider/shopbanner.png",
+      "url": "/shopdetails"
+    },
+    {
+      "id": 2,
+      "title": "Save 10%",
+      "subtitle": "Stay healthy, stay fit",
+      "image": "/assets/img/slider/product.png",
+      "url": "/shopdetails"
+    }
+  ]
+  

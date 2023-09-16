@@ -1,0 +1,128 @@
+.h-fix
+{
+    height: 33.75rem;
+}
+
+.f-16
+{
+font-size: 16px;
+}
+.f-18
+{
+font-size: 18px;
+}
+.f-50
+{
+font-size: 46px;
+font-weight: 600;
+line-height: 1.25em;
+}
+.f-20
+{
+font-size: 20px;
+line-height: 1em;
+}
+.ptag {
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+    width: auto;
+    line-height: 1.5em;
+}
+.funfact-content1 h3, .funfact-content1 .h3 {
+    font-size: 46px;
+    font-weight: 600;
+    color: #000000;
+}
+.rounded-3xl {
+    border-radius: 1.5rem;
+}
+.card{
+    border: 0px;
+    border-color: none !important;
+}
+
+.bgimg
+{
+    background-color: #fdf4ff;
+}
+.listyle
+{
+    font-size: 20px;
+    line-height: 2em;
+}
+
+
+@media (max-width:768px) {
+    .h-fix{
+        height: 31.75rem;
+    }
+    .blogg{
+        display: contents !important;
+        justify-content: center !important;
+        align-items: center !important;
+        margin-top: 10px;
+    }
+
+    .row.blog-123{
+        display: flex;
+    justify-content: center;
+    align-content: flex-end;
+    }
+
+    .card.shadow.blog-222{
+        margin-bottom: 10px;
+        margin-left: 15px;
+
+    }
+
+    .f-50{
+         font-size: 36px;
+         font-weight: 600;
+         line-height: 1.25em;
+    }
+    
+    .ptag {
+        max-width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 1rem;
+        width: auto;
+        line-height: 1.5em;
+    }
+    .pb-100{
+        padding-bottom: 50px;
+
+    }
+    .pt-100{
+        padding-top: 50px;
+
+    }
+}
+
+@media (max-width:414px){
+    .funfact-content1 h3, .funfact-content1 .h3 {
+        font-size: 30px;
+        font-weight: 600;
+        margin-top: 0px;
+    }
+    .f-50
+    {
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 1.2em;
+    }
+    .f-20 {
+        font-size: 16px;
+        line-height: 1.25em;
+    }
+    .ptag {
+        max-width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 18px;
+        width: auto;
+        line-height: 1.5em;
+    }
+}

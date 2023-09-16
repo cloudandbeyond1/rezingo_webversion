@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/img/banner/productbanner.png",
+      "title": "SAVE 30%",
+      "subtitle": "PRODUCT",
+      "price": "$99.00",
+      "link": "/shopdetails"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/banner/foodbanner.png",
+      "title": "SAVE 60%",
+      "subtitle": "Food",
+      "price": "$79.00",
+      "link": "/shopdetails"
+    }
+  ]
+  

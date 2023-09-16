@@ -1,0 +1,17 @@
+.rounded-3xl {
+    border-radius: 1.5rem;
+}
+.card{
+    border: 0px;
+    border-color: none !important;
+}
+
+.bgimg
+{
+    background-color: #fdf4ff;
+}
+.listyle
+{
+    font-size: 20px;
+    line-height: 2em;
+}

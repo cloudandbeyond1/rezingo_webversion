@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/img/icon-img/support-1.png",
+      "title": "ENGAGE",
+      "subtitle": "Engage in as much of our optional survey as possible to browse and select from a variety of recommended health and wellness programs and protocols based on your dynamic health score. Or, take your time and browse content by type, date posted, author, fitness level, outcome, and so much more."
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/icon-img/support-2.png",
+      "title": "BUILD",
+      "subtitle": "LooksBuild your custom library of programs from the programs page including diverse curated selections for mental health, diet, supplementation, meditation, physical health, and relationships."
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/icon-img/support-3.png",
+      "title": "GROW",
+      "subtitle": "Optionally track & share your fitness data, answer daily health prompts, and review your program history in one place. Rezingo grows with you, suggesting new refinements to your wellness library and offering encouragement along the way."
+    }
+  ]
+  

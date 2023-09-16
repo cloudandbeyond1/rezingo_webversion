@@ -1,0 +1,180 @@
+.rounded-3xl {
+    border-radius: 1.5rem;
+}
+
+.text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+}
+
+.rounded-full {
+    border-radius: 9999px;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.mb-12 {
+    margin-bottom: 3rem;
+}
+.h-20 {
+    height: 5rem;
+}
+.w-20 {
+    width: 5rem;
+}
+.h-fix{
+    height: 29.75rem;
+}
+.h-fix1{
+    height: 25.75rem;
+}
+
+@media (max-width:768px) {
+    .h-fix1{
+        height: 29.75rem;
+    }
+}
+.primary-color-bg{
+    /* background-color: #703ca230; */
+    background-color:#a855f730;
+}
+.bgText{
+    background: -webkit-linear-gradient(#703ca2,#e4daed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.cardHead h4{
+    font-size: 24px !important;
+    line-height:1.25em;
+    font-weight: 600 !important;
+}
+
+
+.featurept
+
+{
+
+    padding-top: 90px;
+
+    padding-bottom: 220px;
+
+    border-radius: 1.5rem;
+
+}
+
+ 
+
+.cardmt
+
+{
+
+    margin-top: -180px;
+
+}
+.shadow1 {
+    box-shadow: 0 0.5rem 1rem #dbeafe !important;
+}
+.section-title-8 h2, .section-title-8 .h2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 46px;
+    font-weight: 600;
+    color: #010101;
+    padding-bottom: 20px;
+}
+
+.section-title-8 p {
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+    width: auto;
+}
+
+.f-16
+{
+font-size: 16px;
+}
+
+.f-24
+{
+font-size: 24px;
+line-height: 1em;
+}
+.f-20
+{
+font-size: 20px;
+line-height: 1em;
+}
+.f-50
+{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1em;
+}
+
+
+@media (max-width:768px){
+    .section-title-8 h2, .section-title-8 .h2 {
+        font-family: "Poppins", sans-serif;
+        font-size: 44px !important;
+        font-weight: 600;
+        line-height: 50px;
+        color: #010101;
+        padding-bottom: 20px;
+    }
+    
+    .section-title-8 p {
+        max-width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 1rem !important;
+        width: auto;
+    }
+
+  }
+
+
+
+@media (max-width:414px){
+.h-fix {
+    height: 27.75rem !important;
+}
+.h-fix1{
+    height: 27.75rem;
+}
+.f-50
+{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 1em;
+}
+.f-20 {
+    font-size: 16px;
+    line-height: 1.25em;
+}
+
+.mtop-5{
+    margin-top: 0rem !important;
+}
+
+.ptop-5{
+    margin-top: 0rem !important;
+}
+
+}
+
+
+.mtop-5{
+    margin-top: 3rem;
+}
+
+.ptop-5{
+    margin-top: 1.5rem;
+}
