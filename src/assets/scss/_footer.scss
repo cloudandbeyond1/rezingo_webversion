@@ -44,7 +44,7 @@
       font-size: 16px;
       font-weight: 500;
       line-height: 1;
-
+letter-spacing: 0.9px;
       margin: 0 0 16px;
 
       color: #313131;
@@ -58,9 +58,9 @@
           margin: 0 0 0;
         }
         a {
-          letter-spacing: 0.3px;
-
-          color: #5d5d5d;
+          letter-spacing: 0.9px;
+          font-size: 16px;
+          color: #313131;
           &:hover {
             color: $theme-color;
           }
@@ -71,8 +71,8 @@
   .subscribe-style {
     p {
       margin: 0 0 20px;
-
-      color: #7a7a7a;
+      letter-spacing: 0.9px;
+      color: #313131;
     }
     .subscribe-form {
       input {

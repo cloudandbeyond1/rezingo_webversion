@@ -24,7 +24,7 @@ const FooterOne = ({
               sideMenu ? "col-xl-2 col-sm-4" : "col-lg-2 col-sm-4"
             }`}
           >
-            {/* footer copyright */}
+            
             <FooterCopyright
               footerLogo="/assets/img/logo/logorezingo.png"
               spaceBottomClass="mb-30"
@@ -81,7 +81,7 @@ const FooterOne = ({
             >
               <div className="foot-align">
               <div className="footer-title">
-                <h3>Quick LINKS</h3>
+                <h3>QUICK LINKS</h3>
               </div>
               <div className="footer-list">
                 <ul>
@@ -135,7 +135,7 @@ const FooterOne = ({
                 <i class="fa fa-phone" style={{fontSize: "20px", lineHeight: "26px",display: "inline-block", width: "28px", height: "28px",  transition: "all 0.3s ease 0s",textAlign: "center"}}></i>
                 </div>
                 <div class="contact-info-dec">
-                  <p style={{ marginBottom: "0px", marginLeft: "14px"}}>+91 9842015786</p>
+                  <p style={{ marginBottom: "0px", marginLeft: "14px", letterSpacing: "0.9px"}}>+91 9842015786</p>
                 
                   </div>
                   </div>
@@ -146,7 +146,7 @@ const FooterOne = ({
                       <i class="fa fa-globe" style={{fontSize: "20px", lineHeight: "26px",display: "inline-block", width: "28px", height: "28px",  transition: "all 0.3s ease 0s",textAlign: "center"}}></i>
                       </div>
                       <div class="contact-info-dec">
-                        <p style={{ marginBottom: "0px", marginLeft: "14px"}}><a href="mailto:yourname@email.com" >info@rezingo.com</a></p>
+                        <p style={{ marginBottom: "0px", marginLeft: "14px", letterSpacing: "0.9px"}}><a href="mailto:yourname@email.com" >info@rezingo.com</a></p>
                       
                         </div>
                         </div>
@@ -158,8 +158,8 @@ const FooterOne = ({
                       <i class="fa fa-map-marker" style={{fontSize: "20px", lineHeight: "26px",display: "inline-block", width: "28px", height: "28px",  transition: "all 0.3s ease 0s",textAlign: "center"}}></i>
                       </div>
                       <div class="contact-info-dec">
-                        <p style={{ marginBottom: "0px", marginLeft: "14px"}}>#9 , V.S.Nagar,</p>
-                        <p style={{marginLeft:"14px"}}>Thiruvanaikoil,Trichy, Tamil Nadu - 620005.</p>
+                        <p style={{ marginBottom: "0px", marginLeft: "14px", letterSpacing: "0.9px"}}>#9 , V.S.Nagar,</p>
+                        <p style={{marginLeft:"14px", letterSpacing: "0.9px"}}>Thiruvanaikoil, Trichy, Tamil Nadu - 620005.</p>
                         </div>
                         </div>
                   </li>

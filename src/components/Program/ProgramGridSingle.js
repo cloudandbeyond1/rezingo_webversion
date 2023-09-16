@@ -42,7 +42,7 @@ const ProgramGridSingle = ({
 
         
         </div>
-        <div className="product-content text-left" style={{marginBottom:"20px"}}>
+        <div className="product-content text-left" style={{marginBottom:"15px"}}>
           {/* <p>{product.subtitle}</p> */}
           <h3 className="lineheight-20 py-2">            
               {product.name}

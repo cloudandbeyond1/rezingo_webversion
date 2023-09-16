@@ -65,9 +65,9 @@ const HomeFashion = ({ spaceTopClass,
      <div style={{backgroundColor:"#fbfbfb"}}>
         <CardView/>
         </div>
-        <CountDownScore spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
-        <CountDownWellness spaceTopClass="pt-100" spaceBottomClass="pb-100" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/img2.jpg"/>
-        <Feature/>
+        <CountDownScore spaceTopClass="pt-75" spaceBottomClass="pb-80" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/f1.jpg"/>
+        <CountDownWellness spaceTopClass="pt-60" spaceBottomClass="pb-65" dateTime="November 13, 2023 12:12:00" countDownImage="/assets/img/img2.jpg"/>
+        <Feature  spaceTopClass="pt-60" spaceBottomClass="pb-65" />
         {/* featured icon */}
         
         <div className={clsx("product-area py-5", spaceTopClass, spaceBottomClass)} style={{backgroundColor:"#fbfbfb"}}>
@@ -132,7 +132,7 @@ const HomeFashion = ({ spaceTopClass,
         </div>
       </div>
     </div>
-    <BrandLogoSliderThree spaceBottomClass="pb-95" spaceTopClass="pt-100" />
+    <BrandLogoSliderThree spaceBottomClass="pb-10" spaceTopClass="pt-60" />
         <div className="blog-area blog-no-sidebar "  style={{backgroundColor:"#fbfbfb"}}>
 
 <div className="container containermaxwidth">
@@ -192,7 +192,7 @@ const HomeFashion = ({ spaceTopClass,
   
     
     
-    <HealthyLifestyle spaceTopClass="pt-100" spaceBottomClass="pb-100" />
+        <HealthyLifestyle spaceTopClass="pt-35" spaceBottomClass="pb-85" />
 
     {/* <TabProductTwelve
           category="Nutrition"

@@ -155,9 +155,9 @@ const ProgramDescriptionInfo = ({
           <div class="sc-bKURNj hdQqYo">
             <p data-test-id="programEquipmentLabel" style={{marginBottom:"20px"}}>Equipment</p>
             <div class="sc-eCwtPL eyUOZw" style={{display:"flex"}}>
-              <div data-test-id="programEquipment" style={{padding: "8px",marginBottom: "6px",marginRight: "6px",color: "rgb(168, 172, 177)", backgroundColor: "rgba(76, 82, 94, 0.15)", borderRadius: "3px", width: "fit-content", whiteSpace: "nowrap",fontSize: "12px",fontWeight:"900",lineHeight: "18px",letterSpacing: "0px",}}>Workout Mat</div>
-              <div data-test-id="programEquipment"style={{padding: "8px",marginBottom: "6px",marginRight: "6px",color: "rgb(168, 172, 177)", backgroundColor: "rgba(76, 82, 94, 0.15)", borderRadius: "3px", width: "fit-content", whiteSpace: "nowrap",fontSize: "12px",fontWeight:"900",lineHeight: "18px",letterSpacing: "0px",}}>Medium Weights</div>
-              <div data-test-id="programEquipment" style={{padding: "8px",marginBottom: "6px",marginRight: "6px",color: "rgb(168, 172, 177)", backgroundColor: "rgba(76, 82, 94, 0.15)", borderRadius: "3px", width: "fit-content", whiteSpace: "nowrap",fontSize: "12px",fontWeight:"900",lineHeight: "18px",letterSpacing: "0px",}}>Heavy Weights</div>
+              <div data-test-id="programEquipment" style={{padding: "8px",marginBottom: "6px",marginRight: "6px",color: "rgb(168, 172, 177)", backgroundColor: "rgba(76, 82, 94, 0.15)", borderRadius: "3px", width: "fit-content", whiteSpace: "nowrap",fontSize: "12px",lineHeight: "18px",letterSpacing: "0px",}}>Workout Mat</div>
+              <div data-test-id="programEquipment"style={{padding: "8px",marginBottom: "6px",marginRight: "6px",color: "rgb(168, 172, 177)", backgroundColor: "rgba(76, 82, 94, 0.15)", borderRadius: "3px", width: "fit-content", whiteSpace: "nowrap",fontSize: "12px",lineHeight: "18px",letterSpacing: "0px",}}>Medium Weights</div>
+              <div data-test-id="programEquipment" style={{padding: "8px",marginBottom: "6px",marginRight: "6px",color: "rgb(168, 172, 177)", backgroundColor: "rgba(76, 82, 94, 0.15)", borderRadius: "3px", width: "fit-content", whiteSpace: "nowrap",fontSize: "12px",lineHeight: "18px",letterSpacing: "0px",}}>Heavy Weights</div>
               </div>
               </div>
 
