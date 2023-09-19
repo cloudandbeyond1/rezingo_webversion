@@ -9,7 +9,7 @@ import ProgramDescriptionTab from "../../wrappers/Program/ProgramDescriptionTab"
 import ProgramImageDescription from "../../wrappers/Program/ProgramImageDescription";
 import ProgramTopSection from "../../wrappers/Program/Programtopsection";
 import VideoPopupTwo from "../../components/video-popup/VideoPopupTwo";
-
+import ProgramDetail from "../../wrappers/Program/ProgramDetailnew";
 const Program = () => {
   let { pathname } = useLocation();
   let { id } = useParams();
@@ -40,6 +40,8 @@ const Program = () => {
           product={product}
         /> */}
 
+
+        <ProgramDetail/>
 
         {/* Program page layout old */}
 
