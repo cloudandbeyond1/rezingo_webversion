@@ -9,6 +9,7 @@ import ProgramDescriptionTab from "../../wrappers/Program/ProgramDescriptionTab"
 import ProgramImageDescription from "../../wrappers/Program/ProgramImageDescription";
 import ProgramTopSection from "../../wrappers/Program/Programtopsection";
 import VideoPopupTwo from "../../components/video-popup/VideoPopupTwo";
+import Programdetails from "../../wrappers/Program/ProgramDetailnew";
 
 const Program = () => {
   let { pathname } = useLocation();
@@ -40,10 +41,21 @@ const Program = () => {
           product={product}
         /> */}
 
+        <Programdetails
+          spaceTopClass="pt-100"
+          spaceBottomClass="pb-100"
+          product={product}
+        />
+
+      {/* <ProgramTopSection
+          spaceTopClass="pt-100"
+          spaceBottomClass="pb-100"
+          product={product}
+        /> */}
 
         {/* Program page layout old */}
 
-        <ProgramImageDescription
+        {/* <ProgramImageDescription
           spaceTopClass="pt-100"
           spaceBottomClass="pb-100"
           product={product}
@@ -54,7 +66,7 @@ const Program = () => {
           productFullDesc={product}
         />
 
-          <VideoPopupTwo spaceBottomClass="pb-100" />
+          <VideoPopupTwo spaceBottomClass="pb-100" /> */}
 
 
         {/* product description tab */}

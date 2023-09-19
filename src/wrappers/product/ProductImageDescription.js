@@ -37,6 +37,10 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
 <img src="/assets/img/product/electronics/7.png" alt="pink" class="img-fluid blur-up lazyload media" style={{width: "81px"}}/>
 </a>
 <div class="media-body align-self-center" style={{marginLeft: "40px"}}>
+
+<a>
+<h6>Weight Gain Powder</h6>
+</a>
 <div class="rating">
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
@@ -44,9 +48,6 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
 <i class="fa fa-star"></i>
 </div>
-<a>
-<h6>Weight Gain Powder</h6>
-</a>
 <h4 style={{fontSize:"16px",color:"red",fontWeight:"100"}}>{currency.currencySymbol + 290}</h4>
 </div>
 </div>
@@ -60,6 +61,10 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
 <img src="/assets/img/product/fruits/f4.png" alt="pink" class="img-fluid blur-up lazyload media" style={{width: "81px"}}/>
 </a>
 <div class="media-body align-self-center" style={{marginLeft: "40px"}}>
+
+<a>
+<h6>Organic Oil</h6>
+</a>
 <div class="rating">
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
@@ -67,9 +72,6 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
 <i class="fa fa-star"></i>
 </div>
-<a>
-<h6>Organic Oil</h6>
-</a>
 <h4 style={{fontSize:"16px",color:"red",fontWeight:"100"}}>{currency.currencySymbol + 9.54}</h4>
 </div>
 </div>
@@ -82,6 +84,10 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
 <img src="/assets/img/product/auto-parts/5.png" alt="pink" class="img-fluid blur-up lazyload media" style={{width: "81px"}}/>
 </a>
 <div class="media-body align-self-center" style={{marginLeft: "40px"}}>
+
+<a>
+<h6>Hand Gripper</h6>
+</a>
 <div class="rating">
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
@@ -89,9 +95,6 @@ const ProductImageDescription = ({ spaceTopClass, spaceBottomClass, galleryType,
 <i class="fa fa-star" style={{color:"#ffa900"}}></i>
 <i class="fa fa-star"></i>
 </div>
-<a>
-<h6>Hand Gripper</h6>
-</a>
 <h4 style={{fontSize:"16px",color:"red",fontWeight:"100"}}>{currency.currencySymbol + 35.6}</h4>
 </div>
 </div>
