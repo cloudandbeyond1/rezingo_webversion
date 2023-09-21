@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "1",
+    "sku": "asdf123",
+    "name": "Yoga Mat",
+    "price": 12.45,
+    "discount": 10,
+    "offerEnd": "October 5, 2024 12:11:00",
+    "new": false,
+    "rating": 4,
+    "saleCount": 54,
+    "category": ["Yoga"],
+    "tag": ["Yoga", "Mat"],
+    "variation": [
+      {
+        "color": "white",
+        "image": "/assets/img/product/fashion/1.jpg",        
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/3.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "image": [
+      "/assets/img/product/fashion/1.jpg",
+      "/assets/img/product/fashion/2.jpg",
+      "/assets/img/product/fashion/3.jpg",
+      "/assets/img/product/fashion/4.jpg"      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "2",
+    "sku": "asdf124",
+    "name": "Pink Yoga Mat",
+    "price": 18.5,
+    "discount": 15,
+    "new": false,
+    "rating": 3,
+    "saleCount": 12,
+    "category": ["Yoga"],
+    "tag": ["Yoga", "Mat"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/3.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "/assets/img/product/fashion/2.jpg",
+      "/assets/img/product/fashion/1.jpg",
+      "/assets/img/product/fashion/3.jpg",
+      "/assets/img/product/fashion/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "3",
+    "sku": "asdf125",
+    "name": "Yoga Belt",
+    "price": 17.45,
+    "discount": 40,
+    "offerEnd": "October 2, 2024 12:11:00",
+    "new": true,
+    "rating": 5,
+    "saleCount": 36,
+    "category": ["Yoga"],
+    "tag": ["Yoga", "jacket", "full sleeve"],
+    "stock": 1,
+    "image": [
+      "/assets/img/product/fashion/3.jpg",
+      "/assets/img/product/fashion/2.jpg",
+      "/assets/img/product/fashion/1.jpg",
+      "/assets/img/product/fashion/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "4",
+    "sku": "asdf126",
+    "name": "Yoga Wheel",
+    "price": 15.5,
+    "discount": 0,
+    "new": true,
+    "rating": 4,
+    "saleCount": 20,
+    "category": ["Yoga"],
+    "tag": ["Yoga", "coat", "full sleeve"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/fashion/2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/fashion/4.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "/assets/img/product/fashion/4.jpg",
+      "/assets/img/product/fashion/3.jpg",
+      "/assets/img/product/fashion/2.jpg",
+      "/assets/img/product/fashion/1.jpg"      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "5",
+    "sku": "asdf129",
+    "name": "Bench Press",
+    "price": 55.5,
+    "discount": 40,
+    "new": true,
+    "rating": 5,
+    "saleCount": 55,
+    "category": ["Gym"],
+    "tag": ["Gym",  "Bench Press"],
+    "variation": [
+      {
+        "color": "blue",
+        "image": "/assets/img/product/auto-parts/1.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "brown",
+        "image": "/assets/img/product/auto-parts/1.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 8
+          },
+          {
+            "name": "xl",
+            "stock": 3
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "image": "/assets/img/product/auto-parts/1.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 0
+          },
+          {
+            "name": "xxl",
+            "stock": 7
+          }
+        ]
+      }
+    ],
+    "image": [
+      "/assets/img/product/auto-parts/1.jpg",
+      "/assets/img/product/auto-parts/2.jpg",
+      "/assets/img/product/auto-parts/3.jpg",
+      "/assets/img/product/auto-parts/4.jpg"      
+    ],
+    "shortDescription": "A dumbbell is a short bar with weights on either side which people use for physical exercise to strengthen their arm and shoulder muscles.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "6",
+    "sku": "asdf130",
+    "name": "Dumbbells",
+    "price": 29.85,
+    "discount": 10,
+    "offerEnd": "October 18, 2024 12:11:00",
+    "new": false,
+    "rating": 5,
+    "saleCount": 83,
+    "category": ["Gym"],
+    "tag": ["Gym"],
+    "stock": 0,
+    "image": [
+      "/assets/img/product/auto-parts/2.jpg",
+      "/assets/img/product/auto-parts/1.jpg",
+      "/assets/img/product/auto-parts/3.jpg",
+      "/assets/img/product/auto-parts/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+  },
+  {
+    "id": "7",
+    "sku": "asdf131",
+    "name": "Hand Gripper",
+    "price": 35.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 95,
+    "category": ["Gym"],
+    "tag": ["Gym", "top", "sleeveless"],
+    "stock": 5,
+    "image": [
+      "/assets/img/product/auto-parts/3.jpg",
+      "/assets/img/product/auto-parts/1.jpg",
+      "/assets/img/product/auto-parts/2.jpg",
+      "/assets/img/product/auto-parts/4.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "8",
+    "sku": "asdf131",
+    "name": "Rapidotzz Thick Ab Roller",
+    "price": 35.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 95,
+    "category": ["Gym"],
+    "tag": ["Gym"],
+    "stock": 5,
+    "image": [
+      "/assets/img/product/auto-parts/4.jpg",
+      "/assets/img/product/auto-parts/1.jpg",
+      "/assets/img/product/auto-parts/3.jpg",
+      "/assets/img/product/auto-parts/2.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "9",
+    "sku": "asdf132",
+    "name": "Protein",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["Nutrition"],
+    "tag": ["Nutrition"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/electronics/1.jpg",
+      "/assets/img/product/electronics/2.jpg",
+      "/assets/img/product/electronics/3.jpg",
+      "/assets/img/product/electronics/4.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "10",
+    "sku": "asdf133",
+    "name": "Protein",
+    "price": 10.6,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["Nutrition"],
+    "tag": ["Nutrition"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/electronics/2.jpg",
+      "/assets/img/product/electronics/1.jpg",
+      "/assets/img/product/electronics/3.jpg",
+      "/assets/img/product/electronics/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  
+  {
+    "id": "11",
+    "sku": "asdf148",
+    "name": "Dumbbells set",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["Gym"],
+    "tag": ["Gym"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/plants/1.jpg",
+      "/assets/img/product/plants/2.jpg",
+      "/assets/img/product/plants/3.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "12",
+    "sku": "asdf149",
+    "name": "Professional Ab Roller",
+    "price": 10.6,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["Gym"],
+    "tag": ["Gym"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/plants/2.jpg",
+      "/assets/img/product/plants/1.jpg",      
+      "/assets/img/product/plants/3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "13",
+    "sku": "asdf150",
+    "name": "Arainfit Tummy Twister Board",
+    "price": 12.5,
+    "discount": 20,
+    "new": true,
+    "rating": 3,
+    "saleCount": 90,
+    "category": ["Gym"],
+    "tag": ["Gym"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/plants/3.jpg",
+      "/assets/img/product/plants/2.jpg",
+      "/assets/img/product/plants/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  
+  {
+    "id": "14",
+    "sku": "asdf156",
+    "name": "Organic Honey",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["organic food"],
+    "tag": ["organic food"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/fruits/f1.jpg",
+      "/assets/img/product/fruits/f2.jpg",
+      "/assets/img/product/fruits/f3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "15",
+    "sku": "asdf157",
+    "name": "Organic Oil",
+    "price": 10.6,
+    "discount": 10,
+    "new": true,
+    "rating": 5,
+    "saleCount": 190,
+    "category": ["organic food"],
+    "tag": ["organic food"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/fruits/f2.jpg",
+      "/assets/img/product/fruits/f3.jpg",
+      "/assets/img/product/fruits/f1.jpg"      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "16",
+    "sku": "asdf158",
+    "name": "Plant Based Vitamin Tablets",
+    "price": 12.5,
+    "discount": 20,
+    "new": true,
+    "rating": 3,
+    "saleCount": 90,
+    "category": ["organic food"],
+    "tag": ["organic food"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/fruits/f3.jpg",
+      "/assets/img/product/fruits/f2.jpg",
+      "/assets/img/product/fruits/f1.jpg"      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "17",
+    "sku": "asdf174",
+    "name": "Party",
+    "price": 6.5,
+    "discount": 30,
+    "new": true,
+    "rating": 5,
+    "saleCount": 10,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/books/1.jpg",
+      "/assets/img/product/books/2.jpg",
+      "/assets/img/product/books/3.jpg",
+      "/assets/img/product/books/4.jpg",
+      "/assets/img/product/books/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "18",
+    "sku": "asdf175",
+    "name": "Fashion Business",
+    "price": 4.2,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 10,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/books/2.jpg",
+      "/assets/img/product/books/3.jpg",
+      "/assets/img/product/books/4.jpg",
+      "/assets/img/product/books/5.jpg",
+      "/assets/img/product/books/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "19",
+    "sku": "asdf176",
+    "name": "Music Festival",
+    "price": 6.6,
+    "discount": 20,
+    "new": true,
+    "rating": 3,
+    "saleCount": 11,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/books/3.jpg",
+      "/assets/img/product/books/4.jpg",
+      "/assets/img/product/books/5.jpg",
+      "/assets/img/product/books/6.jpg",
+      "/assets/img/product/books/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "20",
+    "sku": "asdf177",
+    "name": "Nature",
+    "price": 7.1,
+    "discount": 40,
+    "new": true,
+    "rating": 4,
+    "saleCount": 19,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/books/4.jpg",
+      "/assets/img/product/books/5.jpg",
+      "/assets/img/product/books/6.jpg",
+      "/assets/img/product/books/7.jpg",
+      "/assets/img/product/books/8.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "21",
+    "sku": "asdf178",
+    "name": "Open your mind",
+    "price": 8.6,
+    "discount": 30,
+    "new": false,
+    "rating": 4,
+    "saleCount": 12,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 8,
+    "image": [
+      "/assets/img/product/books/5.jpg",
+      "/assets/img/product/books/6.jpg",
+      "/assets/img/product/books/7.jpg",
+      "/assets/img/product/books/8.jpg",
+      "/assets/img/product/books/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "22",
+    "sku": "asdf179",
+    "name": "Lorem ipsum book six",
+    "price": 5.5,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 19,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/books/6.jpg",
+      "/assets/img/product/books/7.jpg",
+      "/assets/img/product/books/8.jpg",
+      "/assets/img/product/books/1.jpg",
+      "/assets/img/product/books/2.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "23",
+    "sku": "asdf180",
+    "name": "Lorem ipsum book seven",
+    "price": 3.2,
+    "discount": 20,
+    "new": false,
+    "rating": 2,
+    "saleCount": 9,
+    "category": ["book"],
+    "tag": ["book"],
+    "stock": 11,
+    "image": [
+      "/assets/img/product/books/7.jpg",
+      "/assets/img/product/books/8.jpg",
+      "/assets/img/product/books/1.jpg",
+      "/assets/img/product/books/2.jpg",
+      "/assets/img/product/books/3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+
+  
+  {
+    "id": "24",
+    "sku": "asdf190",
+    "name": "Shoes",
+    "price": 3.1,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 29,
+    "category": ["accessories"],
+    "tag": ["accessories"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/accessories/1.jpg",
+      "/assets/img/product/accessories/2.jpg",
+      "/assets/img/product/accessories/3.jpg",
+      "/assets/img/product/accessories/4.jpg",
+      "/assets/img/product/accessories/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "25",
+    "sku": "asdf191",
+    "name": "Handbag",
+    "price": 12.43,
+    "discount": 20,
+    "new": false,
+    "rating": 5,
+    "saleCount": 19,
+    "category": ["accessories"],
+    "tag": ["accessories"],
+    "stock": 30,
+    "image": [
+      "/assets/img/product/accessories/2.jpg",
+      "/assets/img/product/accessories/3.jpg",
+      "/assets/img/product/accessories/4.jpg",
+      "/assets/img/product/accessories/5.jpg",
+      "/assets/img/product/accessories/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "26",
+    "sku": "asdf192",
+    "name": "Watch",
+    "price": 12.5,
+    "discount": 0,
+    "new": true,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["accessories"],
+    "tag": ["accessories"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/accessories/3.jpg",
+      "/assets/img/product/accessories/2.jpg",
+      "/assets/img/product/accessories/1.jpg",
+      "/assets/img/product/accessories/5.jpg",
+      "/assets/img/product/accessories/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "27",
+    "sku": "asdf193",
+    "name": "Handbag",
+    "price": 19.33,
+    "discount": 20,
+    "new": false,
+    "rating": 5,
+    "saleCount": 20,
+    "category": ["accessories"],
+    "tag": ["accessories"],
+    "stock": 30,
+    "image": [
+      "/assets/img/product/accessories/4.jpg",
+      "/assets/img/product/accessories/2.jpg",
+      "/assets/img/product/accessories/1.jpg",
+      "/assets/img/product/accessories/5.jpg",
+      "/assets/img/product/accessories/3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "28",
+    "sku": "asdf194",
+    "name": "Shoes",
+    "price": 12.35,
+    "discount": 20,
+    "new": true,
+    "rating": 5,
+    "saleCount": 20,
+    "category": ["accessories"],
+    "tag": ["accessories"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/accessories/5.jpg",
+      "/assets/img/product/accessories/4.jpg",
+      "/assets/img/product/accessories/1.jpg",
+      "/assets/img/product/accessories/2.jpg",
+      "/assets/img/product/accessories/3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "29",
+    "sku": "asdf132",
+    "name": "Protein Powder",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["Nutrition"],
+    "tag": ["Nutrition"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/electronics/3.jpg",
+      "/assets/img/product/electronics/1.jpg",
+      "/assets/img/product/electronics/2.jpg",      
+      "/assets/img/product/electronics/4.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "30",
+    "sku": "asdf132",
+    "name": "Weight Gain Powder",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["Nutrition"],
+    "tag": ["Nutrition"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/electronics/4.jpg",
+      "/assets/img/product/electronics/1.jpg",
+      "/assets/img/product/electronics/2.jpg",      
+      "/assets/img/product/electronics/3.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+
+
+
+  {
+    "id": "31",
+    "sku": "asdf222",
+    "name": "Hyderabadi Chicken Biryani",
+    "price": 6.4,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "saleCount": 10,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/3.png",
+      "/assets/img/product/cake-shop/4.png",
+      "/assets/img/product/cake-shop/5.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "32",
+    "sku": "asdf223",
+    "name": "Idly",
+    "price": 3,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/cake-shop/8.png",
+      "/assets/img/product/cake-shop/8.png",
+      "/assets/img/product/cake-shop/4.png",
+      "/assets/img/product/cake-shop/5.png",
+      "/assets/img/product/cake-shop/6.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "33",
+    "sku": "asdf224",
+    "name": "Hyderabadi Mutton Biryani",
+    "price": 2.4,
+    "discount": 10,
+    "new": false,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/cake-shop/3.png",
+      "/assets/img/product/cake-shop/3.png",
+      "/assets/img/product/cake-shop/5.png",
+      "/assets/img/product/cake-shop/6.png",
+      "/assets/img/product/cake-shop/7.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "34",
+    "sku": "asdf225",
+    "name": "Gulab Jamun with Rabri",
+    "price": 3.5,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 14,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/cake-shop/4.png",
+      "/assets/img/product/cake-shop/4.png",
+      "/assets/img/product/cake-shop/6.png",
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/8.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "35",
+    "sku": "asdf226",
+    "name": "Hyderabadi Chicken Biryani",
+    "price": 4.2,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/8.png",
+      "/assets/img/product/cake-shop/1.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "36",
+    "sku": "asdf227",
+    "name": "Naan",
+    "price": 5.7,
+    "discount": 30,
+    "new": true,
+    "rating": 3,
+    "saleCount": 30,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/cake-shop/6.png",
+      "/assets/img/product/cake-shop/6.png",
+      "/assets/img/product/cake-shop/8.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/2.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "37",
+    "sku": "asdf228",
+    "name": "Masala dosa",
+    "price": 6.5,
+    "discount": 10,
+    "new": true,
+    "rating": 3,
+    "saleCount": 20,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/3.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "38",
+    "sku": "asdf229",
+    "name": "Cheeseburger,French fries",
+    "price": 4.5,
+    "discount": 10,
+    "new": true,
+    "rating": 3,
+    "saleCount": 20,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 60,
+    "image": [
+      "/assets/img/product/cake-shop/12.png",
+      "/assets/img/product/cake-shop/12.png",
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/3.png",
+      "/assets/img/product/cake-shop/4.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "39",
+    "sku": "asdf222",
+    "name": "Lorem ipsum cake one",
+    "price": 6.4,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "saleCount": 10,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 20,
+    "image": [
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/3.png",
+      "/assets/img/product/cake-shop/4.png",
+      "/assets/img/product/cake-shop/5.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "40",
+    "sku": "asdf223",
+    "name": "Tandoori Roti",
+    "price": 3,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 15,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/4.png",
+      "/assets/img/product/cake-shop/5.png",
+      "/assets/img/product/cake-shop/6.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "41",
+    "sku": "asdf224",
+    "name": "veg platter",
+    "price": 2.4,
+    "discount": 10,
+    "new": false,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/cake-shop/10.png",
+      "/assets/img/product/cake-shop/10.png",
+      "/assets/img/product/cake-shop/5.png",
+      "/assets/img/product/cake-shop/6.png",
+      "/assets/img/product/cake-shop/7.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "42",
+    "sku": "asdf225",
+    "name": "Matka Phirni",
+    "price": 3.5,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "saleCount": 14,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 10,
+    "image": [
+      "/assets/img/product/cake-shop/11.png",
+      "/assets/img/product/cake-shop/11.png",
+      "/assets/img/product/cake-shop/6.png",
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/8.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "43",
+    "sku": "asdf226",
+    "name": "Chicken Korma",
+    "price": 4.2,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/cake-shop/5.png",
+      "/assets/img/product/cake-shop/5.png",
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/8.png",
+      "/assets/img/product/cake-shop/1.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "44",
+    "sku": "asdf227",
+    "name": "Chicken Seekh Kebab",
+    "price": 5.7,
+    "discount": 30,
+    "new": true,
+    "rating": 3,
+    "saleCount": 30,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 25,
+    "image": [
+      "/assets/img/product/cake-shop/13.png",
+      "/assets/img/product/cake-shop/13.png",
+      "/assets/img/product/cake-shop/8.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/2.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "45",
+    "sku": "asdf228",
+    "name": "Masala dosa",
+    "price": 6.5,
+    "discount": 10,
+    "new": true,
+    "rating": 3,
+    "saleCount": 20,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 40,
+    "image": [
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/7.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/3.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "46",
+    "sku": "asdf229",
+    "name": "Tandoori Roti",
+    "price": 4.5,
+    "discount": 10,
+    "new": true,
+    "rating": 3,
+    "saleCount": 20,
+    "category": ["food"],
+    "tag": ["food"],
+    "stock": 60,
+    "image": [
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/1.png",
+      "/assets/img/product/cake-shop/2.png",
+      "/assets/img/product/cake-shop/3.png",
+      "/assets/img/product/cake-shop/4.png"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+
+
+
+  {
+
+    "id": "124",
+
+    "sku": "asdf238",
+
+    "name": "Personal Body Fitness Weighing Scale",
+
+    "price": 6.4,
+
+    "discount": 0,
+
+    "new": false,
+
+    "rating": 5,
+
+    "saleCount": 10,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 20,
+
+    "image": [
+
+      "/assets/img/product/medical/1.png",
+
+      "/assets/img/product/medical/2.png",
+
+      "/assets/img/product/medical/3.png",
+
+      "/assets/img/product/medical/4.png",
+
+      "/assets/img/product/medical/5.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "125",
+
+    "sku": "asdf239",
+
+    "name": "RoboTouch Echo Plus Full Body Massage Chair (Black)",
+
+    "price": 3,
+
+    "discount": 10,
+
+    "new": true,
+
+    "rating": 4,
+
+    "saleCount": 15,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 25,
+
+    "image": [
+
+      "/assets/img/product/medical/2.png",
+
+      "/assets/img/product/medical/3.png",
+
+      "/assets/img/product/medical/4.png",
+
+      "/assets/img/product/medical/5.png",
+
+      "/assets/img/product/medical/6.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "126",
+
+    "sku": "asdf240",
+
+    "name": "Noise Pulse Go Buzz Smart Watch",
+
+    "price": 2.4,
+
+    "discount": 10,
+
+    "new": false,
+
+    "rating": 5,
+
+    "saleCount": 30,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 10,
+
+    "image": [
+
+      "/assets/img/product/medical/3.png",
+
+      "/assets/img/product/medical/4.png",
+
+      "/assets/img/product/medical/5.png",
+
+      "/assets/img/product/medical/6.png",
+
+      "/assets/img/product/medical/7.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "127",
+
+    "sku": "asdf241",
+
+    "name": "Fitness Body Building Equipment Abdominal Wheel Roller",
+
+    "price": 3.5,
+
+    "discount": 10,
+
+    "new": true,
+
+    "rating": 4,
+
+    "saleCount": 14,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 10,
+
+    "image": [
+
+      "/assets/img/product/medical/4.png",
+
+      "/assets/img/product/medical/5.png",
+
+      "/assets/img/product/medical/6.png",
+
+      "/assets/img/product/medical/7.png",
+
+      "/assets/img/product/medical/8.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "128",
+
+    "sku": "asdf242",
+
+    "name": "Strauss Tummy Twister",
+
+    "price": 4.2,
+
+    "discount": 0,
+
+    "new": false,
+
+    "rating": 5,
+
+    "saleCount": 30,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 40,
+
+    "image": [
+
+      "/assets/img/product/medical/5.png",
+
+      "/assets/img/product/medical/6.png",
+
+      "/assets/img/product/medical/7.png",
+
+      "/assets/img/product/medical/8.png",
+
+      "/assets/img/product/medical/1.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "129",
+
+    "sku": "asdf243",
+
+    "name": "Omron HEM 6232T Wrist Blood Pressure Monitor",
+
+    "price": 5.7,
+
+    "discount": 30,
+
+    "new": true,
+
+    "rating": 3,
+
+    "saleCount": 30,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 25,
+
+    "image": [
+
+      "/assets/img/product/medical/6.png",
+
+      "/assets/img/product/medical/7.png",
+
+      "/assets/img/product/medical/8.png",
+
+      "/assets/img/product/medical/1.png",
+
+      "/assets/img/product/medical/2.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "130",
+
+    "sku": "asdf244",
+
+    "name": "Lorem ipsum medical seven",
+
+    "price": 6.5,
+
+    "discount": 10,
+
+    "new": true,
+
+    "rating": 3,
+
+    "saleCount": 20,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 40,
+
+    "image": [
+
+      "/assets/img/product/medical/7.png",
+
+      "/assets/img/product/medical/8.png",
+
+      "/assets/img/product/medical/1.png",
+
+      "/assets/img/product/medical/2.png",
+
+      "/assets/img/product/medical/3.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+
+  {
+
+    "id": "131",
+
+    "sku": "asdf245",
+
+    "name": "Lorem ipsum medical eight",
+
+    "price": 4.5,
+
+    "discount": 10,
+
+    "new": true,
+
+    "rating": 3,
+
+    "saleCount": 20,
+
+    "category": ["gadgets"],
+
+    "tag": ["gadgets"],
+
+    "stock": 60,
+
+    "image": [
+
+      "/assets/img/product/medical/8.png",
+
+      "/assets/img/product/medical/1.png",
+
+      "/assets/img/product/medical/2.png",
+
+      "/assets/img/product/medical/3.png",
+
+      "/assets/img/product/medical/4.png"
+
+    ],
+
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+
+  },
+  {
+    "id": "30",
+    "sku": "asdf132",
+    "name": "Weight Gain Powder",
+    "price": 15.6,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "saleCount": 90,
+    "category": ["Nutrition"],
+    "tag": ["Nutrition"],
+    "stock": 15,
+    "image": [
+      "/assets/img/product/electronics/4.jpg",
+      "/assets/img/product/electronics/1.jpg",
+      "/assets/img/product/electronics/2.jpg",      
+      "/assets/img/product/electronics/3.jpg"
+      
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  }  
+]

@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Save 10%",
+      "subtitle": "STAY HEALTHY",
+      "image": "/assets/img/slider/shopbanner1.png",
+      "url": "/shopdetails"
+    },
+    {
+      "id": 2,
+      "title": "Save 10%",
+      "subtitle": "SUMMER SALE",
+      "image": "/assets/img/slider/product1.png",
+      "url": "/shopdetails"
+    }
+  ]
+  
